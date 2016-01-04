@@ -1,4 +1,4 @@
-package com.fengchuiguo.NetworkProgramming.Socket;
+package com.fengchuiguo.Network.socket;
 
 import java.net.*;
 import java.io.*;
