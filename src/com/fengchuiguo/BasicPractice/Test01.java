@@ -15,6 +15,5 @@ public class Test01 {
         d = ++c;
         System.out.println("c:" + c);
         System.out.println("d:" + d);
-
     }
 }

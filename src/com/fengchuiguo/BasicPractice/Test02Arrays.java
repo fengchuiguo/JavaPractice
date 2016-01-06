@@ -1,6 +1,7 @@
 package com.fengchuiguo.BasicPractice;
 
 import java.util.Arrays;
+import java.util.List;
 
 /**
  * Created by Administrator on 2016/1/6 0006.
@@ -18,6 +19,29 @@ public class Test02Arrays {
 
         Arrays.sort(demos);
         System.out.println(Arrays.toString(demos));
+
+
+        System.out.println("======");
+        String hel="你好啊";
+//        String hel="hello";
+        byte[] bytes=hel.getBytes();
+        Arrays.sort(bytes);
+        System.out.println(Arrays.toString(bytes));
+        System.out.println(new String(bytes));
+
+        System.out.println("------");
+        char[] chars=hel.toCharArray();
+        Arrays.sort(chars);
+        System.out.println(Arrays.toString(chars));
+        System.out.println(new String(chars));
+
+
+        System.out.println("======");
+        String[] strings={"哇","ha","哈"};
+        List list=Arrays.asList(strings);//数组转为list
+        System.out.println(list.size());
+        System.out.println(list.get(0));
+
 
     }
 
