@@ -136,6 +136,6 @@ public class ListTest {
 //		lt.testForEach();
 //		lt.testModify();
 //		lt.testForEach();
-//		lt.testRemove(); 
+//		lt.testRemove();
 	}
 }
