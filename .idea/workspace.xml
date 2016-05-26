@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df1d4f74-91ab-4ae2-aaf7-6d410c6c7ef0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/XmlRead/com/T1/DOMTest/DOMTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/XmlRead/com/T2/SAXTest/SAXParserHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/XmlRead/com/T2/SAXTest/SAXTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/XmlRead/com/T3/JDOMTest/JDOMTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/XmlRead/com/T4/DOM4JTest/DOM4JTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/XmlRead/com/xmltest/entity/Book.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com.T1.DOMTest/DOMTest.java" afterPath="$PROJECT_DIR$/XmlRead/src/com/T1DOMTest/DOMTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest/SAXParserHandler.java" afterPath="$PROJECT_DIR$/XmlRead/src/com/T2SAXTest/SAXParserHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest/SAXTest.java" afterPath="$PROJECT_DIR$/XmlRead/src/com/T2SAXTest/SAXTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com.T3.JDOMTest/JDOMTest.java" afterPath="$PROJECT_DIR$/XmlRead/src/com/T3JDOMTest/JDOMTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com.T4.DOM4JTest/DOM4JTest.java" afterPath="$PROJECT_DIR$/XmlRead/src/com/T4DOM4JTest/DOM4JTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com/xmltest/entity/Book.java" afterPath="$PROJECT_DIR$/XmlRead/src/com/xmlEntity/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XmlRead/XmlRead.iml" afterPath="$PROJECT_DIR$/XmlRead/XmlRead.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaPractice.iws" />
@@ -27,21 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="demoMethod02.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fengchuiguo/BasicPractice/demoMethod02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="XmlRead.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XmlRead/XmlRead.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,10 +59,10 @@
         </entry>
       </file>
       <file leaf-file-name="DOMTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XmlRead/src/com.T1.DOMTest/DOMTest.java">
+        <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T1DOMTest/DOMTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.62963">
-              <caret line="25" column="50" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="50" />
+            <state vertical-scroll-proportion="25.37037">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,47 +71,50 @@
         </entry>
       </file>
       <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XmlRead/src/com/xmltest/entity/Book.java">
+        <entry file="file://$PROJECT_DIR$/XmlRead/src/com/xmlEntity/Book.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="26" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="26" />
+              <caret line="0" column="21" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SAXParserHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest/SAXParserHandler.java">
+        <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T2SAXTest/SAXParserHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#350#356#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#344#350#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SAXTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest/SAXTest.java">
+        <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T2SAXTest/SAXTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="31" />
-              <folding />
+              <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="JDOMTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XmlRead/src/com.T3.JDOMTest/JDOMTest.java">
+        <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T3JDOMTest/JDOMTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
-                <element signature="e#502#508#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#500#506#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,14 +130,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DOM4JTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/XmlRead/src/com.T4.DOM4JTest/DOM4JTest.java">
+      <file leaf-file-name="DOM4JTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T4DOM4JTest/DOM4JTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60900474">
-              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#393#399#0" expanded="true" />
+                <element signature="e#392#398#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T5ParserXMLTest/ParseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.22576177">
+              <caret line="153" column="21" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1001#1007#0" expanded="true" />
+                <element signature="e#3719#3725#0" expanded="true" />
+                <element signature="e#5848#5854#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,15 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/fengchuiguo/NetworkProgramming/Socket/GreetingServer.java" />
-        <option value="$PROJECT_DIR$/src/com/fengchuiguo/IO/io/IOUtilTest2.java" />
-        <option value="$PROJECT_DIR$/src/com/fengchuiguo/IO/io/FileDemo2.java" />
-        <option value="$PROJECT_DIR$/src/com/fengchuiguo/IO/io/IOUtil.java" />
-        <option value="$PROJECT_DIR$/src/com/fengchuiguo/IO/file.txt" />
-        <option value="$PROJECT_DIR$/src/com/fengchuiguo/NetworkProgramming/socket2/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/fengchuiguo/NetworkProgramming/Socket/GreetingClient.java" />
-        <option value="$PROJECT_DIR$/src/com/fengchuiguo/NetworkProgramming/socket/GreetingServer.java" />
-        <option value="$PROJECT_DIR$/src/com/fengchuiguo/NetworkProgramming/udp/UDPClient.java" />
         <option value="$PROJECT_DIR$/src/com/fengchuiguo/Network/ztest/Test01.java" />
         <option value="$PROJECT_DIR$/src/com/fengchuiguo/Network/ztest/Test02.java" />
         <option value="$PROJECT_DIR$/src/com/fengchuiguo/Network/Demo001.java" />
@@ -198,11 +208,20 @@
         <option value="$PROJECT_DIR$/XmlRead/src/Book.java" />
         <option value="$PROJECT_DIR$/XmlRead/src/com/entity/Book.java" />
         <option value="$PROJECT_DIR$/XmlRead/src/com/xmltest/entity/Book.java" />
-        <option value="$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest/SAXParserHandler.java" />
         <option value="$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest/SAXTest2.java" />
         <option value="$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest/SAXTest.java" />
         <option value="$PROJECT_DIR$/XmlRead/src/com.T3.JDOMTest/JDOMTest.java" />
         <option value="$PROJECT_DIR$/XmlRead/src/com.T4.DOM4JTest/DOM4JTest.java" />
+        <option value="$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest/SAXParserHandler.java" />
+        <option value="$PROJECT_DIR$/XmlRead/src/T5/ParserXMLTest/ParseTest.java" />
+        <option value="$PROJECT_DIR$/XmlRead/src/com/ParserXMLTest/ParseTest.java" />
+        <option value="$PROJECT_DIR$/XmlRead/src/com/T2SAXTest/SAXParserHandler.java" />
+        <option value="$PROJECT_DIR$/XmlRead/src/com/T5/ParserXMLTest/ParseTest.java" />
+        <option value="$PROJECT_DIR$/XmlRead/src/com/T1DOMTest/DOMTest.java" />
+        <option value="$PROJECT_DIR$/XmlRead/src/com/T2SAXTest/SAXTest.java" />
+        <option value="$PROJECT_DIR$/XmlRead/src/com/T3JDOMTest/JDOMTest.java" />
+        <option value="$PROJECT_DIR$/XmlRead/src/com/T4DOM4JTest/DOM4JTest.java" />
+        <option value="$PROJECT_DIR$/XmlRead/src/com/T5ParserXMLTest/ParseTest.java" />
       </list>
     </option>
   </component>
@@ -258,6 +277,10 @@
               <option name="myItemId" value="JavaPractice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -300,6 +323,14 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xmlEntity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -311,11 +342,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
+              <option name="myItemId" value="XmlRead" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="production" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T5ParserXMLTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -323,7 +372,93 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T4DOM4JTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XmlRead" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T3JDOMTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XmlRead" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T2SAXTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XmlRead" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T1DOMTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -344,64 +479,65 @@
     <property name="recentsLimit" value="5" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/XmlRead/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="dynamic.classpath" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.45057473" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/XmlRead/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.fengchuiguo.BasicPractice" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/XmlRead/src/T5/ParserXMLTest" />
       <recent name="$PROJECT_DIR$/XmlRead/src/com.T4.DOM4JTest" />
       <recent name="$PROJECT_DIR$/XmlRead/lib" />
       <recent name="$PROJECT_DIR$/XmlRead/src/com.T3.JDOMTest" />
-      <recent name="$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest" />
-      <recent name="$PROJECT_DIR$/XmlRead/src/1.DOMTest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/XmlRead/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DOM4JTest">
-    <configuration default="false" name="a_linshi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ParseTest">
+    <configuration default="false" name="ParseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.fengchuiguo.BasicPractice.*" />
+          <option name="PATTERN" value="com.T5ParserXMLTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.fengchuiguo.BasicPractice.a_linshi" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="XmlRead" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.T5ParserXMLTest" />
+      <option name="MAIN_CLASS_NAME" value="com.T5ParserXMLTest.ParseTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaPractice" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
+      <patterns />
       <method />
     </configuration>
     <configuration default="false" name="DOMTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.T1.DOMTest.*" />
+          <option name="PATTERN" value="com.T1DOMTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.T1.DOMTest.DOMTest" />
+      <option name="MAIN_CLASS_NAME" value="com.T1DOMTest.DOMTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -417,11 +553,11 @@
     <configuration default="false" name="SAXTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.T2.SAXTest.*" />
+          <option name="PATTERN" value="com.T2SAXTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.T2.SAXTest.SAXTest" />
+      <option name="MAIN_CLASS_NAME" value="com.T2SAXTest.SAXTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -437,11 +573,11 @@
     <configuration default="false" name="JDOMTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.T3.JDOMTest.*" />
+          <option name="PATTERN" value="com.T3JDOMTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.T3.JDOMTest.JDOMTest" />
+      <option name="MAIN_CLASS_NAME" value="com.T3JDOMTest.JDOMTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -457,11 +593,11 @@
     <configuration default="false" name="DOM4JTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.T4.DOM4JTest.*" />
+          <option name="PATTERN" value="com.T4DOM4JTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.T4.DOM4JTest.DOM4JTest" />
+      <option name="MAIN_CLASS_NAME" value="com.T4DOM4JTest.DOM4JTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -704,7 +840,7 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.a_linshi" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ParseTest" />
       <item index="1" class="java.lang.String" itemvalue="Application.DOMTest" />
       <item index="2" class="java.lang.String" itemvalue="Application.SAXTest" />
       <item index="3" class="java.lang.String" itemvalue="Application.JDOMTest" />
@@ -712,11 +848,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DOM4JTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JDOMTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SAXTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DOMTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.a_linshi" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ParseTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DOM4JTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JDOMTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SAXTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DOMTest" />
       </list>
     </recent_temporary>
   </component>
@@ -740,16 +876,16 @@
       <workItem from="1452089675451" duration="363000" />
       <workItem from="1452173125226" duration="3918000" />
       <workItem from="1461290428722" duration="176000" />
-      <workItem from="1464231515313" duration="5070000" />
+      <workItem from="1464231515313" duration="7440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25969000" />
+    <option name="totallyTimeSpent" value="28339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="368" y="158" width="1552" height="842" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -758,7 +894,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -767,7 +903,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24966888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24966888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -802,13 +938,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/fengchuiguo/Network/ztest/Test03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35389134">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fengchuiguo/Network/ztest/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.58002937">
@@ -1127,24 +1256,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XmlRead/src/com/xmltest/entity/Book.java">
+    <entry file="file://$PROJECT_DIR$/XmlRead/src/com/xmlEntity/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="26" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="26" />
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="21" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest/SAXParserHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#350#356#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1159,46 +1275,75 @@
     <entry file="file://$PROJECT_DIR$/XmlRead/XmlRead.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XmlRead/src/com.T1.DOMTest/DOMTest.java">
+    <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T1DOMTest/DOMTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.62963">
-          <caret line="25" column="50" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="50" />
+        <state vertical-scroll-proportion="25.37037">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XmlRead/src/com.T2.SAXTest/SAXTest.java">
+    <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T2SAXTest/SAXParserHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XmlRead/src/com.T3.JDOMTest/JDOMTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <element signature="e#502#508#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#350#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XmlRead/src/com.T4.DOM4JTest/DOM4JTest.java">
+    <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T2SAXTest/SAXTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60900474">
-          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#393#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T3JDOMTest/JDOMTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#500#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T4DOM4JTest/DOM4JTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#392#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XmlRead/src/com/T5ParserXMLTest/ParseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.22576177">
+          <caret line="153" column="21" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1001#1007#0" expanded="true" />
+            <element signature="e#3719#3725#0" expanded="true" />
+            <element signature="e#5848#5854#0" expanded="true" />
           </folding>
         </state>
       </provider>

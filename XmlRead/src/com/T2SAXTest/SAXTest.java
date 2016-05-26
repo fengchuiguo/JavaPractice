@@ -1,4 +1,4 @@
-package com.T2.SAXTest;
+package com.T2SAXTest;
 
 import java.io.IOException;
 
@@ -8,13 +8,10 @@ import javax.xml.parsers.SAXParserFactory;
 
 import org.xml.sax.SAXException;
 
-import com.xmltest.entity.Book;
+import com.xmlEntity.Book;
 
 public class SAXTest {
 
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
         SAXParserFactory factory = SAXParserFactory.newInstance();
         try {

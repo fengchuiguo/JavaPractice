@@ -1,4 +1,4 @@
-package com.T1.DOMTest;
+package com.T1DOMTest;
 
 import java.io.IOException;
 

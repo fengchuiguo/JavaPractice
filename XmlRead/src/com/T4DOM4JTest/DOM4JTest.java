@@ -1,4 +1,4 @@
-package com.T4.DOM4JTest;
+package com.T4DOM4JTest;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -11,9 +11,10 @@ import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
-import com.xmltest.entity.Book;
+import com.xmlEntity.Book;
 
 public class DOM4JTest {
+    
     private static ArrayList<Book> bookList = new ArrayList<Book>();
 
     public static void main(String[] args) {

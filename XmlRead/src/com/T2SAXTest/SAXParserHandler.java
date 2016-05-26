@@ -1,6 +1,6 @@
-package com.T2.SAXTest;
+package com.T2SAXTest;
 
-import com.xmltest.entity.Book;
+import com.xmlEntity.Book;
 
 import java.util.ArrayList;
 

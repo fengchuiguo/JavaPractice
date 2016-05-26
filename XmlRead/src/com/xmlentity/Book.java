@@ -1,4 +1,4 @@
-package com.xmltest.entity;
+package com.xmlEntity;
 
 
 public class Book {
