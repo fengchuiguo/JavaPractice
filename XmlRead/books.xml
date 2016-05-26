@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book id="1">
+        <name>权利的游戏</name>
+        <author>马丁</author>
+        <year>2014</year>
+        <price>89</price>
+    </book>
+    <book id="2">
+        <name>Effective Java</name>
+        <year>2004</year>
+        <price>67</price>
+        <language>English</language>
+    </book>
+    <book id="3">
+        <name>谁的青春不迷茫</name>
+        <year>2004</year>
+        <price>27</price>
+        <language>Chinese</language>
+    </book>
+</bookstore>
