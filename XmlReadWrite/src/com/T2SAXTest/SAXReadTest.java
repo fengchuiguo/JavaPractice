@@ -10,14 +10,14 @@ import org.xml.sax.SAXException;
 
 import com.xmlEntity.Book;
 
-public class SAXTest {
+public class SAXReadTest {
 
     public static void main(String[] args) {
         SAXParserFactory factory = SAXParserFactory.newInstance();
         try {
             SAXParser parser = factory.newSAXParser();
             SAXParserHandler handler = new SAXParserHandler();
-            parser.parse("XmlRead/books.xml", handler);
+            parser.parse("XmlReadWrite/books.xml", handler);
             System.out.println("~~~共有" + handler.getBookList().size()
                     + "本书");
             for (Book book : handler.getBookList()) {

@@ -17,7 +17,7 @@ import org.jdom2.input.SAXBuilder;
 import com.xmlEntity.Book;
 
 
-public class JDOMTest {
+public class JDOMReadTest {
 
     private static ArrayList<Book> booksList = new ArrayList<Book>();
 
@@ -29,7 +29,7 @@ public class JDOMTest {
         InputStream in;
         try {
             // 2.创建一个输入流，将xml文件加载到输入流中
-            in = new FileInputStream("XmlRead/books.xml");
+            in = new FileInputStream("XmlReadWrite/books.xml");
             InputStreamReader isr = new InputStreamReader(in, "UTF-8");
             // 3.通过saxBuilder的build方法，将输入流加载到saxBuilder中
             Document document = saxBuilder.build(isr);
@@ -79,9 +79,9 @@ public class JDOMTest {
                         + "书======");
                 booksList.add(bookEntity);
                 bookEntity = null;
-                System.out.println(booksList.size());
-                System.out.println(booksList.get(0).getId());
-                System.out.println(booksList.get(0).getName());
+//                System.out.println(booksList.size());
+//                System.out.println(booksList.get(0).getId());
+//                System.out.println(booksList.get(0).getName());
 
             }
         } catch (FileNotFoundException e) {

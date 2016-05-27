@@ -13,7 +13,7 @@ import org.dom4j.io.SAXReader;
 
 import com.xmlEntity.Book;
 
-public class DOM4JTest {
+public class DOM4JReadTest {
     
     private static ArrayList<Book> bookList = new ArrayList<Book>();
 
@@ -23,7 +23,7 @@ public class DOM4JTest {
         SAXReader reader = new SAXReader();
         try {
             // 通过reader对象的read方法加载books.xml文件,获取docuemnt对象。
-            Document document = reader.read(new File("XmlRead//books.xml"));
+            Document document = reader.read(new File("XmlReadWrite/books.xml"));
             // 通过document对象获取根节点bookstore
             Element bookStore = document.getRootElement();
             // 通过element对象的elementIterator方法获取迭代器

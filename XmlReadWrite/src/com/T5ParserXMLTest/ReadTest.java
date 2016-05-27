@@ -31,7 +31,7 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 
-public class ParseTest {
+public class ReadTest {
 
 
     public void domXmlParser() {
@@ -39,7 +39,7 @@ public class ParseTest {
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
         try {
             DocumentBuilder db = dbf.newDocumentBuilder();
-            Document document = db.parse("XmlRead/books.xml");
+            Document document = db.parse("XmlReadWrite/books.xml");
             NodeList bookList = document.getElementsByTagName("book");
             for (int i = 0; i < bookList.getLength(); i++) {
                 Node book = bookList.item(i);
@@ -86,7 +86,7 @@ public class ParseTest {
         try {
             SAXParser parser = factory.newSAXParser();
             SAXParserHandler handler = new SAXParserHandler();
-            parser.parse("XmlRead/books.xml", handler);
+            parser.parse("XmlReadWrite/books.xml", handler);
         } catch (ParserConfigurationException e) {
             e.printStackTrace();
         } catch (SAXException e) {
@@ -101,7 +101,7 @@ public class ParseTest {
         SAXBuilder saxBuilder = new SAXBuilder();
         InputStream in;
         try {
-            in = new FileInputStream("XmlRead/books.xml");
+            in = new FileInputStream("XmlReadWrite/books.xml");
             InputStreamReader isr = new InputStreamReader(in, "UTF-8");
             org.jdom2.Document document = saxBuilder.build(isr);
             org.jdom2.Element rootElement = document.getRootElement();
@@ -147,7 +147,7 @@ public class ParseTest {
         ArrayList<Book> booksList = new ArrayList<Book>();
         SAXReader reader = new SAXReader();
         try {
-            org.dom4j.Document document = reader.read(new File("XmlRead/books.xml"));
+            org.dom4j.Document document = reader.read(new File("XmlReadWrite/books.xml"));
             org.dom4j.Element bookStore = document.getRootElement();
             List<org.dom4j.Element> bookEles = bookStore.elements();
             for (org.dom4j.Element book : bookEles) {
