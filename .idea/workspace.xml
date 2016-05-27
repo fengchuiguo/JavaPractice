@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df1d4f74-91ab-4ae2-aaf7-6d410c6c7ef0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XmlReadWrite/src/com/xmlEntity/Book.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XmlRead/src/com/xmlentity/Book.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/1DOM.png" afterPath="$PROJECT_DIR$/XmlReadWrite/1DOM.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/2SAX.png" afterPath="$PROJECT_DIR$/XmlReadWrite/2SAX.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/3JDOM和DOM4J.png" afterPath="$PROJECT_DIR$/XmlReadWrite/3JDOM和DOM4J.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/XmlRead.iml" afterPath="$PROJECT_DIR$/XmlReadWrite/XmlReadWrite.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/books.xml" afterPath="$PROJECT_DIR$/XmlReadWrite/books.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/lib/dom4j-1.6.1.jar" afterPath="$PROJECT_DIR$/XmlReadWrite/lib/dom4j-1.6.1.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/lib/jdom-2.0.5.jar" afterPath="$PROJECT_DIR$/XmlReadWrite/lib/jdom-2.0.5.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com/T1DOMTest/DOMTest.java" afterPath="$PROJECT_DIR$/XmlReadWrite/src/com/T1DOMTest/DOMReadTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com/T2SAXTest/SAXParserHandler.java" afterPath="$PROJECT_DIR$/XmlReadWrite/src/com/T2SAXTest/SAXParserHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com/T2SAXTest/SAXTest.java" afterPath="$PROJECT_DIR$/XmlReadWrite/src/com/T2SAXTest/SAXReadTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com/T3JDOMTest/JDOMTest.java" afterPath="$PROJECT_DIR$/XmlReadWrite/src/com/T3JDOMTest/JDOMReadTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com/T4DOM4JTest/DOM4JTest.java" afterPath="$PROJECT_DIR$/XmlReadWrite/src/com/T4DOM4JTest/DOM4JReadTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/XmlRead/src/com/T5ParserXMLTest/ParseTest.java" afterPath="$PROJECT_DIR$/XmlReadWrite/src/com/T5ParserXMLTest/ReadTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="df1d4f74-91ab-4ae2-aaf7-6d410c6c7ef0" name="Default" comment="" />
     <ignored path="JavaPractice.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,50 +22,7 @@
     <favorites_list name="JavaPractice" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="JDOMCreateTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XmlReadWrite/src/com/T3JDOMTest/JDOMCreateTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="books.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/XmlReadWrite/books.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7109005">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="t3rssNews.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XmlReadWrite/src/com/resultFiles/t3rssNews.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EscapeStrategy.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/XmlReadWrite/lib/jdom-2.0.5.jar!/org/jdom2/output/EscapeStrategy.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.7777777">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -215,42 +154,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XmlReadWrite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XmlReadWrite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -674,12 +577,12 @@
       <workItem from="1452173125226" duration="3918000" />
       <workItem from="1461290428722" duration="176000" />
       <workItem from="1464231515313" duration="9951000" />
-      <workItem from="1464328703370" duration="2328000" />
+      <workItem from="1464328703370" duration="2524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33178000" />
+    <option name="totallyTimeSpent" value="33374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="334" y="113" width="1552" height="842" extended-state="0" />
@@ -702,7 +605,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24966888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24966888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1095,7 +998,7 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/XmlReadWrite/lib/jdom-2.0.5.jar!/org/jdom2/output/EscapeStrategy.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7777777">
+        <state vertical-scroll-proportion="0.18987341">
           <caret line="8" column="24" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
@@ -1109,21 +1012,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XmlReadWrite/src/com/T3JDOMTest/JDOMCreateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XmlReadWrite/books.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7109005">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XmlReadWrite/src/com/T3JDOMTest/JDOMCreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6042654">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
