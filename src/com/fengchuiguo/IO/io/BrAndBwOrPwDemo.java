@@ -14,11 +14,11 @@ public class BrAndBwOrPwDemo {
 		 //对文件进行读写操作 
 		BufferedReader br = new BufferedReader(
 				new InputStreamReader(
-						new FileInputStream("e:\\javaio\\imooc.txt")));
+						new FileInputStream("e:\\javaio\\test.txt")));
 		/*BufferedWriter bw = new BufferedWriter(
 				new OutputStreamWriter(
-						new FileOutputStream("e:\\javaio\\imooc3.txt")));*/
-		PrintWriter pw = new PrintWriter("e:\\javaio\\imooc4.txt");
+						new FileOutputStream("e:\\javaio\\test3.txt")));*/
+		PrintWriter pw = new PrintWriter("e:\\javaio\\test4.txt");
 		//PrintWriter pw1 = new PrintWriter(outputStream,boolean autoFlush);
 		String line ;
 		while((line = br.readLine())!=null){

@@ -8,10 +8,10 @@ import java.io.OutputStreamWriter;
 
 public class IsrAndOswDemo {
 	public static void main(String[] args)throws IOException {
-		FileInputStream in = new FileInputStream("e:\\javaio\\imoocutf8.txt");
+		FileInputStream in = new FileInputStream("e:\\javaio\\testutf8.txt");
 		InputStreamReader isr = new InputStreamReader(in,"utf-8");//默认项目的编码,操作的时候，要写文件本身的编码格式
 	
-		FileOutputStream out = new FileOutputStream("e:\\javaio\\imoocutf81.txt");
+		FileOutputStream out = new FileOutputStream("e:\\javaio\\testutf81.txt");
 		OutputStreamWriter osw = new OutputStreamWriter(out,"utf-8");
 		/*int c ;
 		while((c = isr.read())!=-1){
